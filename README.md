@@ -5,3 +5,5 @@ CS 471/571 is an introduction to artificial intelligence, the subfield of comput
 The learning objectives of this course are:
   - to understand basic concepts and methods in Artificial Intelligence.
   - to apply these AI-based methods for solving different problems.
+
+Taught by Prof. Thanh H. Nguyen at University of Oregon
